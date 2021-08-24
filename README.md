@@ -123,22 +123,19 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-IHARA&layout=compact&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-IHARA&layout=compact&theme=tokyonight">
   <a/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=F-IHARA&count_private=true&show_icons=true&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api?username=F-IHARA&count_private=true&show_icons=true&theme=tokyonight">
   <a/>
 </p>
 
 <p align="left">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/F-IHARA/F-IHARA/master/profile-summary-card-output/dracula/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/F-IHARA/F-IHARA/main/profile-summary-card-output/dracula/1-repos-per-language.svg">
   <a/>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/F-IHARA/F-IHARA/master/profile-summary-card-output/dracula/1-repos-per-language.svg">
-  <a/>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/F-IHARA/F-IHARA/master/profile-summary-card-output/dracula/2-most-commit-language.svg">
+    <img src="https://raw.githubusercontent.com/F-IHARA/F-IHARA/main/profile-summary-card-output/dracula/2-most-commit-language.svg">
   <a/>
 </p>
 
