@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋, I'm F-IHARA</h1>
 <h3 align="center">A Student from Japan</h3>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/F-IHARA/F-IHARA/">
     <img src="https://komarev.com/ghpvc/?username=F-IHARA&label=Profile%20views&color=0e75b6&style=flat" alt="F-IHARA"/>
   </a>
-</p>
+</p> -->
 
 - 🔭 I’m currently studying on [Keio University](https://www.keio.ac.jp/)
 
