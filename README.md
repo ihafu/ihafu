@@ -1,9 +1,9 @@
-<h1 align="center">Hello there 👋, I'm F-IHARA</h1>
+<h1 align="center">Hello there 👋, I'm ihafu</h1>
 <h3 align="center">A Student from Japan</h3>
 
 <!-- <p align="left">
-  <a href="https://github.com/F-IHARA/F-IHARA/">
-    <img src="https://komarev.com/ghpvc/?username=F-IHARA&label=Profile%20views&color=0e75b6&style=flat" alt="F-IHARA"/>
+  <a href="https://github.com/ihafu/ihafu/">
+    <img src="https://komarev.com/ghpvc/?username=ihafu&label=Profile%20views&color=0e75b6&style=flat" alt="ihafu"/>
   </a>
 </p> -->
 
@@ -123,24 +123,24 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-IHARA&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihafu&layout=compact&theme=tokyonight">
   <a/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=F-IHARA&count_private=true&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=ihafu&count_private=true&show_icons=true&theme=tokyonight">
   <a/>
 </p>
 
 <p align="left">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/F-IHARA/F-IHARA/main/profile-summary-card-output/dracula/1-repos-per-language.svg">
+    <img src="https://raw.githubusercontent.com/ihafu/ihafu/main/profile-summary-card-output/dracula/1-repos-per-language.svg">
   <a/>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/F-IHARA/F-IHARA/main/profile-summary-card-output/dracula/2-most-commit-language.svg">
+    <img src="https://raw.githubusercontent.com/ihafu/ihafu/main/profile-summary-card-output/dracula/2-most-commit-language.svg">
   <a/>
 </p>
 
 <p align="left">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=F-IHARA" alt="F-IHARA" />
+		<img src="https://github-profile-trophy.vercel.app/?username=ihafu" alt="ihafu" />
 	</a>
 </p> -->
