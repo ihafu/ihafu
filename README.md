@@ -20,9 +20,9 @@
 ### Contact with me:
 
 <p align="left">
-	<!-- <a href="https://twitter.com/" target="blank">
+	<a href="https://twitter.com/ihafuramito" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="f" height="30" width="40" />
-	</a> -->
+	</a>
   <a href="https://www.facebook.com/people/%E4%BA%95%E5%8E%9F%E5%8F%B2%E6%B8%A1/100067174536258/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 	</a>
